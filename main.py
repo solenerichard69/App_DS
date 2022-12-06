@@ -16,4 +16,4 @@ gtag('js', new Date());
 gtag('config', 'G-BKV9CF4L6E');
 </script>
 """
- return prefix_google + "Hello World"
+ return prefix_google + "Hey World"
